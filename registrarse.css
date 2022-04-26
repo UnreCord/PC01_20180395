@@ -1,0 +1,22 @@
+.Container{
+    margin: auto;
+    border: 1px solid #888888;
+    justify-content: center;
+    margin: auto;
+    width: 250px;
+    border: 1px solid #888888;
+    text-align: left;
+    padding: 10px;
+}
+
+#b1{
+    background-color: green;
+}
+
+#b2{
+    background-color: rgba(155, 20, 20, 0.842);
+}
+
+#b1, #b2{
+    display: flex;
+}
